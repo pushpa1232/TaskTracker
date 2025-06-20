@@ -1,0 +1,8 @@
+{
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html",
+    "javascript": "javascript",
+    "javascriptreact": "javascriptreact"
+  },
+  "tailwindCSS.experimental.configFile": "./tailwind.config.js"
+}
